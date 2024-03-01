@@ -1,0 +1,1 @@
+# fortran_vscode_settings
