@@ -1,0 +1,13 @@
+{
+    "fortran.fortls.disableDiagnostics": true,
+    "editor.formatOnSave": true,
+    "C_Cpp.clang_format_fallbackStyle": "Microsoft",
+    "fortran.linter.includePaths": [
+        "${workspaceFolder}/**",
+        "/usr/include/**",
+    ],
+    "editor.fontSize": 14,
+
+    // specify the path to the mod_output folder
+    // "fortran.linter.modOutput": "${workspaceFolder}/mod_output",
+}
